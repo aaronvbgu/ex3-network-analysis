@@ -6,9 +6,9 @@ Grey's Anatomy Network of Sexual Relations
 ------------------------------------------
 
 **Centrality**
-  1. Max Betweeness: Sloan(115.3667)
-  2. Max Closeness: Torres(0.003194888)
-  3. Max Eigenvector: Karev(1)
+  1. Max Betweeness: Sloan(**115.3667**)
+  2. Max Closeness: Torres(**0.003194888**)
+  3. Max Eigenvector: Karev(**1**)
 
 **Communities(Short Random Walks)**
   1. Modularity: 0.5147059
@@ -26,9 +26,9 @@ IMDB Top Movies
 ---------------
 
 **Centrality**
-  1. Max Betweeness: Morgan Freeman, Christoph Waltz, Leonardo DiCaprio and Samuel L. Jackson(48)
-  2. Max Closeness: Christoph Waltz, Leonardo DiCaprio, Samuel L. Jackson(0.0006973501)
-  3. Max Eigenvector: Vin Diesel, Paul Walker, Michelle Rodriguez, Jordana Brewster(1)
+  1. Max Betweeness: Morgan Freeman, Christoph Waltz, Leonardo DiCaprio and Samuel L. Jackson(**48**)
+  2. Max Closeness: Christoph Waltz, Leonardo DiCaprio, Samuel L. Jackson(**0.0006973501**)
+  3. Max Eigenvector: Vin Diesel, Paul Walker, Michelle Rodriguez, Jordana Brewster(**1**)
 
 **Communities(Short Random Walks)**
   1. Modularity: 0.765
