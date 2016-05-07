@@ -11,14 +11,14 @@ Grey's Anatomy Network of Sexual Relations
   3. Max Eigenvector: Karev(**1**)
 
 **Communities(Short Random Walks)**
-  1. Modularity: 0.5147059
-  2. Sizes: 5 13 3 3 2 3 3
+  1. Modularity: **0.5147059**
+  2. Sizes: 5 13 3 3 2 3 3(**7 communities**)
 
 ![grpah1](greys-anatomy-graph1.png)
 
 **Communities(Girvan-Newman)**
-  1. Modularity: 0.5774221
-  2. Sizes: 8 5 4 4 5 3 3
+  1. Modularity: **0.5774221**
+  2. Sizes: 8 5 4 4 5 3 3(**7 communities**)
 
 ![grpah1](greys-anatomy-graph2.png)
   
@@ -31,13 +31,13 @@ IMDB Top Movies
   3. Max Eigenvector: Vin Diesel, Paul Walker, Michelle Rodriguez, Jordana Brewster(**1**)
 
 **Communities(Short Random Walks)**
-  1. Modularity: 0.765
-  2. Sizes: 13 7 5 5 7 5 5
+  1. Modularity: **0.765**
+  2. Sizes: 13 7 5 5 7 5 5(**7 communities**)
 
 ![grpah1](imdb-graph1.png)
 
 **Communities(Greedy Optimization)**
-  1. Modularity: 0.765
-  2. Sizes: 7 5 13 5 5 5 7
+  1. Modularity: **0.765**
+  2. Sizes: 7 5 13 5 5 5 7(**7 communities**)
 
 ![grpah1](imdb-graph2.png)
